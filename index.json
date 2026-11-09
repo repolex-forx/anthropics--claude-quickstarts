@@ -1,0 +1,11 @@
+{
+  "org": "anthropics",
+  "repo": "claude-quickstarts",
+  "versions": [
+    {
+      "commit": "4a4224bdf0e9cfb3332167b69c90457403813625",
+      "tag": "",
+      "parsed_at": "2026-11-09T16:47:02.653062+00:00"
+    }
+  ]
+}
